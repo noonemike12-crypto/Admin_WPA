@@ -1,0 +1,5 @@
+{
+  "name": "WPA Conference Admin",
+  "description": "Admin dashboard for sending announcements and managing notifications for the WPA Conference 2026.",
+  "requestFramePermissions": []
+}
